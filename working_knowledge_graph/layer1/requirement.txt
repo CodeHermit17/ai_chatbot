@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+# If you enable ENABLE_DYNAMIC_CONTENT_LOADING = True in config.py, uncomment these:
+# selenium>=4.15.2
+# webdriver-manager>=4.0.1 # Helps manage browser drivers (e.g., chromedriver)

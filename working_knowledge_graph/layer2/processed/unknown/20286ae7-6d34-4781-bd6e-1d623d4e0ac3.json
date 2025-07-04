@@ -1,0 +1,28 @@
+{
+  "doc_id": "20286ae7-6d34-4781-bd6e-1d623d4e0ac3",
+  "original_url": "https://www.mosdac.gov.in/3drsounder.xml",
+  "file_type": "xml",
+  "cleaned_text": null,
+  "geotags": [],
+  "extracted_tables": [],
+  "extracted_links": [],
+  "metadata": {
+    "last_crawled": "2025-07-04T05:32:14.269662",
+    "md5_hash": "ec94503afc81e08da05dbcb083b34d9c",
+    "etag": null,
+    "last_modified": "Tue, 24 Dec 2024 08:23:45 GMT",
+    "content_type": "text/xml",
+    "http_status": 200,
+    "language": null,
+    "file_name": "3drsounder.xml",
+    "file_size_bytes": 25532,
+    "file_last_modified": "2025-07-04T05:32:14.241945",
+    "file_creation_time": "2025-07-04T13:15:33.403989",
+    "relative_path": "www.mosdac.gov.in\\3drsounder.xml",
+    "processing_timestamp": "2025-07-04T10:13:01.727900+00:00"
+  },
+  "sentences": [],
+  "tokens": [],
+  "lemmas": [],
+  "entities": []
+}

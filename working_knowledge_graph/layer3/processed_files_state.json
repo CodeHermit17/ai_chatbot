@@ -1,0 +1,944 @@
+{
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\000c25ff-3e04-4e0c-870d-f3cbf2be3bb8.json": {
+        "hash": "1534d052d3e9d16a2b2cc6f7a44a9a85"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\01507af1-4a73-4869-a3c6-80a8bc6c38b3.json": {
+        "hash": "2dc89d0de482480f07ee1703f2a507e6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\01901acc-0ab9-409b-a4b0-cfd022ad48d4.json": {
+        "hash": "445dc7bfe6ae0c8182e2285a825f7930"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\02e86886-34a0-4f5a-8137-48b25a3be54a.json": {
+        "hash": "7de2288688bcadfbc4b88a63912273c3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\02e8ac63-a8fe-4cb9-a5a7-694f5eafc624.json": {
+        "hash": "e3de787c2a74e8c5f4d6055a476801b0"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\046936eb-d10d-4c1b-99fc-bfc21c660ff2.json": {
+        "hash": "03ed321df5af28be42d766192ffa7a2d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\06d493e2-9963-492b-bf90-147ce63fbe0f.json": {
+        "hash": "0dd3dbe1f875f084c08e3a54394098ab"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\08145fd4-31d9-477d-9707-3e21f8a50fe5.json": {
+        "hash": "0f72fe55d471ade8b98103a5c53c3ff5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\08663611-87f1-4b11-90dc-01af6a79d988.json": {
+        "hash": "4e32925a4841e0df98fe01e396e9fda7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\0888565c-c103-49dc-92c5-a7235299c402.json": {
+        "hash": "73fb693413e08b335d8747a616990f2c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\08c97816-8519-4710-9266-8bbe485b3dc1.json": {
+        "hash": "01e3ad4c34ce4bad0e52f221d72f554c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\08d36b0b-bd89-43b5-b31f-68c4e88a9065.json": {
+        "hash": "af6fad44ce9d8ffeec233aa924e70b05"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\0ae95195-0e00-4908-ab37-3e7606e07954.json": {
+        "hash": "9f86769ec01ef4cf8694ac66183256ec"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\0bc51275-f12b-4913-9b42-594d9fd374ae.json": {
+        "hash": "cadcc3feefda633c823eb1c6b2156ef8"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\0c2814fa-7361-460d-9f2f-d79c4f2b5c1e.json": {
+        "hash": "5d7b331c40e9cd4bfbdbd5327638e3d4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\0c316738-41b8-4632-8280-8b610db0f327.json": {
+        "hash": "32c8a3e66884f12628b0e0266f8ea7dd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\0f2ecc36-570a-4298-a52a-1fa59113ce2a.json": {
+        "hash": "e639479d3afdf4c8f59d832486b8c7d3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1029dc4f-9265-4d37-920a-699796a51bc0.json": {
+        "hash": "f2ef935c8148d3c608fc500f8df03bdc"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1257624f-f0ee-406b-904a-8e8f42799ffb.json": {
+        "hash": "0dfb8510876812f3349fba25f6911a62"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\12c3e209-6b1e-49be-988b-f6d00ed41f41.json": {
+        "hash": "b912f53608fce59d103ec9bc811c1b2f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\13833098-b406-4369-a931-91393b913d79.json": {
+        "hash": "acb50b0f65e83036d15309662f57a92e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\14d981d9-cdd5-4ab1-8761-81b28d7d0c52.json": {
+        "hash": "4b741782198eb9e606419c3def787a66"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\15b3d8ef-d439-4c74-a433-127db4a74542.json": {
+        "hash": "41be8bbb878eff815946f6b1d88ea085"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\16adebd2-c112-4caf-acac-44e4633d55f7.json": {
+        "hash": "ff7bcd33ce8293521593c820ed6d7b26"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\172c18fc-a0c0-4da3-a41d-5079daeff602.json": {
+        "hash": "6b4ea71625cada7e4be7486880dfee2e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\172d0e7e-d07d-404d-882a-6cd7522e8929.json": {
+        "hash": "bfdeaa459048821964a6ea4cc34788cf"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\17929c59-98c4-4ccb-8c72-f2ba0c3d39aa.json": {
+        "hash": "8f77b4512c9ae34715800ead2517c39d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1d731514-9258-48ff-8e26-09e607243556.json": {
+        "hash": "3a97747fa7813109dbf1d02b803abe35"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1de0200a-63a8-4013-b433-876c961ca39d.json": {
+        "hash": "660e71083694b0b537c47279f390a58e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1ed50fd7-fd19-4b99-88b9-da5514383363.json": {
+        "hash": "8c9c085a0f55f9ba13e6c9d9da77cfa4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1fec926c-c9df-47a7-97bd-73ed2aed7929.json": {
+        "hash": "359ea0b1a8f1388488fd840f816af2f6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\1fedf838-df6d-4cab-b448-0b6fb23a2564.json": {
+        "hash": "8991d27b819812c53a88bc106dc378cd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\20f07265-2911-4183-82a3-cee5da8d6176.json": {
+        "hash": "4dad4910fd17087de5f49d943cf219b2"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2279f4dd-39d8-4537-bd40-3e8de17ba70f.json": {
+        "hash": "840bc0b7832c328c89006928f56bbb64"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\22951e73-4961-430f-b9e5-a1f3bd97ecb6.json": {
+        "hash": "8078e2523e916d866014791d9c353861"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\24153251-e307-4f50-9ceb-5e508d4fa178.json": {
+        "hash": "5be640b2b5ea855a5309d129accda52a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\249b8b84-4f50-4b0b-bdaf-f433a01ce132.json": {
+        "hash": "e54f3972f00cfa00b43fc77152fcc552"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\261d8129-8c51-4bcd-acbf-c8941dcb8b1d.json": {
+        "hash": "c6cf5f867cc1d5ec2012d06a82f0aa87"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\26492d57-93a1-4467-85d1-fe9dcd0bc60d.json": {
+        "hash": "e6d60c82ec72392de6a3031860475f78"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2743ba90-2f33-4d0c-85bd-1a9e6fc07d7c.json": {
+        "hash": "1f6b7cd5ad3aa826825c4e31b3092d37"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2970a903-da90-4293-af30-a9a68fd4f237.json": {
+        "hash": "4498b05ef654d9e53dfe3e944a4e765b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\298ac2af-2996-44d8-8ee4-4fa548817071.json": {
+        "hash": "a5f855fdcd70a88da494ec78a3cfae82"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\298fadf9-5add-4587-89ad-ba7cee3a8726.json": {
+        "hash": "be0a847b994abd10b7d63014a0ecf702"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\29d39a1a-1055-4f18-a494-e3c875b6bfe0.json": {
+        "hash": "01c0f8070ec59ce965dc1b753e273dec"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2ab2e6b2-31b8-4d74-90cc-fa497a1a8a8f.json": {
+        "hash": "9bae790a4d798bf2bf8b2ba4e8454983"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2bca7231-5c05-4b4f-8026-b80f689ff207.json": {
+        "hash": "054e7f5a3a434496ffcbc1fff48b84e7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2c98229f-46bb-40e7-80b5-e08f74cd508c.json": {
+        "hash": "8250fa64314f18f3f6e373b020743915"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2e35c2ad-3027-453f-852f-9bed9f46271b.json": {
+        "hash": "f2f17bff03230d2e484079fa49948289"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2f5f5611-2dbb-4b28-a626-1340e50de451.json": {
+        "hash": "536b7f704ccb85b295c029a2b86fb524"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2f72a301-a3eb-4c9b-b8ca-2ff400dbd0dd.json": {
+        "hash": "32cef2d8a4a2c5d93e2cb0b3a977ee0c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2f97df35-40d7-43e6-be12-66eb9bcfc0a6.json": {
+        "hash": "dd36bfb582b28109c0819cfc05e37df7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\2fcd2a52-5e21-42e8-8379-a2e770a8273b.json": {
+        "hash": "05e8f7a34d38fc0c1165ddf3878879f7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\30cf2eb7-931e-49b1-a789-0e4a5535f641.json": {
+        "hash": "a15c1fa3a8db7ad5a7d4f37fb8826cce"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\311b6976-1e67-48cb-af49-bf9350a657bb.json": {
+        "hash": "0b56e2eb0e35b70c22d52519034b05d2"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\328b9598-1e9c-460e-baa1-aae36b533039.json": {
+        "hash": "f96e9c360400c6e21fd3332678a776cb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\34052279-840a-4e4c-8df0-a26f65c3517d.json": {
+        "hash": "dab79911e7d6c72f1e3d17f3fa079415"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3422636f-dcb4-4fa6-9715-b4f575489918.json": {
+        "hash": "3823b1b163c006c5f19b8296c949d2e9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\34a1b852-7adc-4d18-8439-9b071bd769c3.json": {
+        "hash": "395616c3bf54728cde3177c24e80364c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\35b11c71-2701-49c5-8779-660ecd7dc1f8.json": {
+        "hash": "a97f0417d8fd9dd22d0649edccb133eb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\366291c0-17e3-40fb-b963-a4e87120e5fd.json": {
+        "hash": "e0f8ea19182794c2afa496f9c7f044ad"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\37459b71-cb41-4551-8d0f-2d27a3596d8e.json": {
+        "hash": "c59fa7ac0918892dd552c929e894c1b9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\37e4962c-4d97-4a68-a652-a695e7f111d0.json": {
+        "hash": "178d98056ef122e2559dccd9a30f519c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3a58ff03-c49d-443c-8cb9-e5beb3696877.json": {
+        "hash": "098f568ff075a58ed80808638a80471d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3ad1f943-61f9-40b9-aafa-4f74bc468bb1.json": {
+        "hash": "8a2afdd376b37ca4b38eb4037dc2d498"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3af51794-fb38-4362-b920-d6f98ecf080e.json": {
+        "hash": "076dd951dfc2b64b59e737a3c7810a77"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3b2e526a-2343-4bf5-971f-ddc478eb6629.json": {
+        "hash": "6b3c118507323e3b3c2db2433986f62d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3b38878c-623d-4995-9cf5-4f6aa650682f.json": {
+        "hash": "451cf796769f7337ca57548777e10fed"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3b59949c-7f59-4dcb-a1b2-87536c11e355.json": {
+        "hash": "3ddb60cfef725a6692898abcf5844d76"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3b721f12-c20d-4712-a13e-215ddd256de8.json": {
+        "hash": "59b6d83b5983ddbfe2e94bf3d7655c21"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3cfa3ef5-e4b3-4707-9807-7aa6964e43b3.json": {
+        "hash": "1942f43631600313ee2ee79198822978"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3d5bc1e8-834a-4838-9092-58c764a3e260.json": {
+        "hash": "1bc27ff662630b2cc5bd24b283d9100a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\3fe1bbfc-b3ea-4961-a275-4872a734a966.json": {
+        "hash": "79e38c975828ef11d9cb51dab6b7b0b5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4094ea17-0710-43c3-b9b6-1f8ecfbf472d.json": {
+        "hash": "839237d946d96b5d7ee12ddc023230e4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\40db434e-3a25-4ef5-b200-c4ce52cb948a.json": {
+        "hash": "ebe4d45274b2a062ada958cfaf5acbdd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\42584243-ae82-4a57-94b6-48a16ab27b4f.json": {
+        "hash": "84b100d144e8613e502ac25bc7368537"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\42adeaeb-289f-4ba1-8285-e6a1b6ab7371.json": {
+        "hash": "9b837c746d42202f3c4d5cb4f533f456"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\433c5f73-a919-449f-a11c-4475602e0834.json": {
+        "hash": "84089cc386f1153c9afe019cd9d815fa"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4371a7dc-230d-42e6-8789-87d7cf7d1e5f.json": {
+        "hash": "1af73494cff6c96990199ab8aa477708"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\438abb79-289c-47ed-b0e2-acbbc71f35e7.json": {
+        "hash": "3bca478b3c1fdb033dba14c7b691d7f5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\439200cb-2741-4fd9-ab51-9a6ab95a1a19.json": {
+        "hash": "2d7d8b2b05e7843aa66431c794495158"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\44af5611-374b-4526-a79d-89c2c68cc7a2.json": {
+        "hash": "7e070e9149c6ba14dbb1f3d6c5187137"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\44bdae9f-a8cb-4cd2-b466-f946ed8b8e88.json": {
+        "hash": "3dfe0c68225085e6ee60f9087b108880"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\44e5bb8b-7612-4f10-a574-078f5b84dc86.json": {
+        "hash": "79aa59ff80235f7bfdd2f28663952bca"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\45307718-5c79-4e46-a91b-4d04c3217670.json": {
+        "hash": "428774c0685c53f57536e2aba087070c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\45f60712-c013-45de-8531-6ddb54d0650c.json": {
+        "hash": "a6748aaab8e30ec6a02deb962384eefe"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\46584303-5435-4693-ac3f-858a4fa81840.json": {
+        "hash": "3254aa37f023de77809e875273864480"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\468dceac-5845-4754-8587-64b056ed8dcf.json": {
+        "hash": "eb7171ecf319ba6b3c17131ac460485e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4a698135-db50-4233-bdb8-eeba971ec6b1.json": {
+        "hash": "17bb6169b16e30e9df52e59766c4c59b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4c484262-3d32-4765-a62b-6df461ad7f19.json": {
+        "hash": "e05e433b82c422a226d79512eec439b2"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4db580f0-1055-46e9-ab50-9e19579c2e1d.json": {
+        "hash": "344083099ab5ae2f86e1a97c965a684b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4eeb7754-96b7-40b5-a449-3f9d45b6a2bc.json": {
+        "hash": "5906f483ff12badb185160b08711f94e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4f47208e-4061-4f1b-9533-cfaf4974714f.json": {
+        "hash": "2cb0e310e4bdabb141ec8c2c0ff0ced8"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\4fdefad9-5159-4b67-8992-b5a2902f9a95.json": {
+        "hash": "cd90014688bafd3ba1e20a2e0537a13c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\502cc777-d8a4-4a20-9a5f-7a32217a0062.json": {
+        "hash": "464a770f7bfe4ba7a20e03739da180bf"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\50c0e2a8-7986-4828-a83d-b49a10055cd3.json": {
+        "hash": "742924a21875038a63994a48bc75aee7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\516de215-19c3-407b-872d-e6eba7af544d.json": {
+        "hash": "e2d204c5462fc25856888bc044015e22"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\51a7066a-9e35-4005-9a4f-2becb997108c.json": {
+        "hash": "672ddc51254599e598fdaea235de5f37"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5205d42f-7e1c-47c5-8297-163fdfa078df.json": {
+        "hash": "596b3fba88d63e89870246a2338f755d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\520a07b6-382c-4bef-94a7-6a575eae7814.json": {
+        "hash": "be0b3031c84540584a4bfd99f0566af5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5218907a-f3fa-4ea6-b437-2b8e15baa9a7.json": {
+        "hash": "9b54b549de1420e55ff209881f60500c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\52225cfb-b27d-4256-b79e-6d44a648d18a.json": {
+        "hash": "cdc4742716a159d1967a5072253ee616"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\55582ecf-9f77-4d3f-9500-fd877ac19030.json": {
+        "hash": "4233d482c5457b5449b6ce2d8067236f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\55ca656c-c350-4971-b9d5-1050f251a59d.json": {
+        "hash": "172087654d4a44cf4b60ffb0463440e3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\55dd1324-62ab-4832-9615-5d1eb0e4baaa.json": {
+        "hash": "7867471017c9c94ac2cbebbe55287152"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\56b3e6f2-a656-45c9-baf9-7d8a4cebb2c4.json": {
+        "hash": "64ce7a1b5b3e65f944283bdf2923293f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5715ac00-f6bc-4565-8f76-c0f987be2a39.json": {
+        "hash": "e88cfb25c40aa7b6d3d30d547827e399"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\58823570-b1ee-43b3-bd55-f988cd8434b1.json": {
+        "hash": "6fb0369f09989a96ec179dba30c3aabb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\58b3d5ad-e2c6-4b9f-a0b6-e6882b4773fd.json": {
+        "hash": "ea8138ee77104b09970c77509c5bfc0b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5bf4601a-0c18-44ae-b390-21a79f29f900.json": {
+        "hash": "0c8884f46019ec3f9e44e527c0d8bb49"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5c5de60f-fdee-417d-90fb-b4534c5b9185.json": {
+        "hash": "a8e23bc82980723c7733c92f05745a06"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5c7a08d1-eff7-4bd3-992f-901ef8056d4a.json": {
+        "hash": "42434d4d76a114ac7d669031aa57a85b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5d1f28b1-0f78-4e42-b63b-5cddccea90a4.json": {
+        "hash": "78841c780cc8c3838cfab2316805dc97"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5e1d65c2-f631-4195-bffb-028dd3df8ae7.json": {
+        "hash": "609193681a5951a1f63bdc72e61236fc"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\5ec5f80a-8aed-400a-9abb-3afdc6b899bb.json": {
+        "hash": "94f479008732c2ae5637ab24e1b981de"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\60eb5a85-ae88-4311-8b72-bb12b9edc73f.json": {
+        "hash": "e0225c1cf35b72123b9eaf050883dcce"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6181cac3-dc51-45fc-8dde-30631f4e5584.json": {
+        "hash": "b44d9be71fa1de4c403d0b7e7648e3bb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\61b9d809-774e-4276-ac98-55b7b88c8b96.json": {
+        "hash": "49751689441f184b60fdfe37e3113af3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\61e1c613-fe12-4942-b465-2919316e09e2.json": {
+        "hash": "d8d9f48ca2d70926f4680cbe648590d1"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\64fd4ccb-3a79-47ac-a29b-2884f5010330.json": {
+        "hash": "20204265e8c2d1ab55d1e293db61b2ac"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\653e16ac-6afe-46e2-a57e-dbb1e85bb6a4.json": {
+        "hash": "1dfd75fc0c725040bf587d8b602d5a61"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\65dda9b8-e65c-4ef3-9c9d-f754501499f4.json": {
+        "hash": "388cc3f626c7d7f7b8c132a2d8abb007"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\66bfa235-15af-482e-beed-73b63385bdfe.json": {
+        "hash": "fdd40938708ab3be7f83107ee1333781"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\68880a50-e386-4043-af5b-7fdb60f5e5ac.json": {
+        "hash": "002f5532b1436490893a4ae536cb73ba"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\68bb46a1-e450-4717-96e0-03a36e60019c.json": {
+        "hash": "8a6ab218ead22b833949a888b577f07b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6acecf61-bdb0-4799-906b-b31dadc40b14.json": {
+        "hash": "3f3593ac73f94b46db5791b11a355c7e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6ae02a36-f1ac-464a-8013-1fb0ee09015b.json": {
+        "hash": "1bd80b6ea0f58a7dca97a4552ed068a1"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6b272118-902b-4a44-bd2a-52ad7ec05afa.json": {
+        "hash": "83d41110a121e1188e0ad540f6a01eb5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6b43f55b-00dd-4528-98de-b947d323a1d2.json": {
+        "hash": "54052113dd5162df7fc62fecbad75eab"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6bca696e-6b3b-4e9e-b17b-5cf06d9b4393.json": {
+        "hash": "9ef7bf1a8e8a4de988b2f49a0b8d16ee"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6c2ddfca-9a34-4a06-ae7b-2b7bfc3b3c1f.json": {
+        "hash": "ce55514f0d563843072cd3f92dae92e0"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6c6d53d7-9724-4b28-9c7e-a2783604b5a8.json": {
+        "hash": "6a25a10997a2df5e421b97c142979d57"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6cf8a95a-6f96-4e50-96a0-45fb6617312a.json": {
+        "hash": "c2922ff7382253ab4c60ed9063997ed5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6e5b07b2-ce8f-4574-9e94-1dc2fe070ad3.json": {
+        "hash": "3c24c65fc50561eef4fe1248a41096ca"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6f63e914-8df1-4a09-81dd-05f30d7cd244.json": {
+        "hash": "482e58827506986443e66c5ac9218e70"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\6f9cc2e3-8168-48ff-87bc-8ae273ba2749.json": {
+        "hash": "574191ad6ac3b8e70324e22c06036abd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\709da58f-daf1-4adb-ae78-c747c17f6dc9.json": {
+        "hash": "db9faada54878d6f716abb5134121209"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\719ddcc8-6260-4c57-aac3-ccf97a59cd7e.json": {
+        "hash": "a3b9fbb12fd69451dd32e0d98264aa36"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\72696c26-497b-49e2-8085-442cafe5c7c9.json": {
+        "hash": "9bdb0f924af9fc252f3462aedebc9f9d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\72e63386-daab-467f-b17d-1b8c4f20bd92.json": {
+        "hash": "ff55431665b948323f818080fca3d068"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\73a00b9a-ee10-442c-a01e-c3c8127bd99e.json": {
+        "hash": "7e17f93c4b09c68a416ed7c0e84d34f7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7421ad4d-f650-4b19-a159-60d1db01a18b.json": {
+        "hash": "bf51661315c15664a92e086b79e12941"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\74279697-faf0-4814-92cd-a97f6e45fddd.json": {
+        "hash": "67246c72d9313001a4a6e80c9e00d2d9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\74803cc0-f213-46f4-bb8f-da93769f7655.json": {
+        "hash": "c5d72df5b989ad180d45f38fbcfe30ec"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\756655ec-d290-48e1-82f2-269426d9bd6e.json": {
+        "hash": "9d091f91264c5552c937391d40c2c66e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\76ade699-fb53-48d0-a651-4a9a47687be3.json": {
+        "hash": "4794abf8a0780ed143c69f6aef85a655"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\76cdcaa8-e745-4e49-abe9-31824942aa4b.json": {
+        "hash": "5af339c4720c5bae26c55d0a7d57be03"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7754ec13-c19b-40d8-8149-6d698f89019b.json": {
+        "hash": "28307198d80476debba7454d2f1884a9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\779ff9d6-c668-41c0-af68-1940d3c32a74.json": {
+        "hash": "07528a35078c720b7cd57187b2d2e0ce"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\77c90f58-bf9f-4c36-ba00-cfdbc66e5182.json": {
+        "hash": "0b1083f279c97dd356b3562b64b065cc"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\78e4ad2c-5823-44bb-b698-57e11eb56d6c.json": {
+        "hash": "7dd57688aada4db3cd28c5f1097e82f0"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7a297ba8-974c-4706-bed2-524424ef2bfe.json": {
+        "hash": "b34e2790d55dd02bcf7c38a4355922df"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7bcd70ff-3b6c-48a0-b0fc-fd19d4285570.json": {
+        "hash": "e1395c001c01384cdef5e080169f4705"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7c355b5c-f811-43a6-b9e4-12d6dfdf24a3.json": {
+        "hash": "ed95288c23229c033036af235f3db9f8"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7d8b713c-1457-4e16-b970-d149b526d9b2.json": {
+        "hash": "ebd8eb96fabda3b37353f1896b88dcdb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7e46ee03-6fef-43cd-8d53-3a1cc1846ff4.json": {
+        "hash": "ab7fb3983d9a34153082188b395e0292"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7f50cf06-035c-4d8b-8eda-64005f2e5030.json": {
+        "hash": "faf661e0c697b1e17b2c3b16c32f89e7"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\7f997002-d00a-4937-a4b1-43e4fe0acad7.json": {
+        "hash": "85370ad3d1bea2ef94a6c925582cdefa"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\816671c8-0449-45ce-b012-9bbca52789d3.json": {
+        "hash": "a8f54f4afbbc58792cee15f2b677133d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\83a3fec4-2864-4327-b31d-e8c093e4139d.json": {
+        "hash": "44bad7aba0f395a64ed361f2ecd8f9f8"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\853c471e-3c2d-46cf-886a-509393b5966b.json": {
+        "hash": "27e285b94aec97e558988601389fa78c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\859ffca6-dcaf-4ff3-b291-a38240be2799.json": {
+        "hash": "fb987fc422c4ab4803341f3651c7537f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\863a49ae-3129-4c8b-9e63-2f73f9b00360.json": {
+        "hash": "305ac7fe8ba27b8cf6d7272b29c36f2e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8721e577-579d-4ce2-8001-d140194ce43e.json": {
+        "hash": "6f61fd45aea4385534feb2099e141a69"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\88847644-72a0-40d1-b47e-34650891ccae.json": {
+        "hash": "179b66ef9c6f4740a7dd4be292811e5e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\88d99420-7b3f-4384-ba5b-c44048fd75e5.json": {
+        "hash": "4e63e024ad9929dff8caa0c66f7174b8"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\89e972e0-a450-4149-8f24-ed630dfb8366.json": {
+        "hash": "e7a6d36f430baff91424651650b90f7f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8a16a059-5ab5-458f-ba2e-c0bd99912dd7.json": {
+        "hash": "a88eeca4fec5fc5047fd849f9cd48e90"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8b58441f-a874-4831-9929-c644dff0ce20.json": {
+        "hash": "60e598aff38dbd9e6fe51cbf648ca10b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8c9720cd-1adb-43c1-a6f3-72743c9f9b3e.json": {
+        "hash": "230ada444c387a953bee061501d62eae"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8d317283-3a11-4dc8-8fb9-f464d3da589e.json": {
+        "hash": "09c010ce32a4bc8bf511084cee1a4436"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8e201e7e-3726-4715-85e7-bc77334ddc5d.json": {
+        "hash": "b8578677a92fa2b91828925fb5e14587"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\8e2373cf-4b2c-4cb2-a7d0-49bf0291edb5.json": {
+        "hash": "649c4874afa86925da3f46367abe60b6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\90f61ede-5cf2-4261-8e62-3605a7f3a676.json": {
+        "hash": "6e84f0fa2b583c0306ec40e6501abf93"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\92872744-da29-4fa8-8bd2-e5bb4401c9a9.json": {
+        "hash": "336aea57b1f45e38539bf8dbba856e6e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\935c101c-2bdf-4589-a636-62aa6379eca1.json": {
+        "hash": "08edc94430d2087974cbb9fc0382f5e5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\93834788-1bdd-439d-a028-2f521a661690.json": {
+        "hash": "01ac5f527b1cffaf40afbf874cef1adb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\93badb06-7cd2-41af-975e-7b6089e21be6.json": {
+        "hash": "338a9e6a02f9e0026d30b88ddf910e80"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\94034c85-fd56-4e78-b7bc-7cdbcf8372c1.json": {
+        "hash": "8c1dc9fc074c46d9ba843096ecb484b9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\94e83b2b-a760-4018-a4bf-23c18cd5f7e2.json": {
+        "hash": "75b9a1d45789d4f11f976db475b58bd4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\955c06c4-e414-43ee-855b-24b37e58fe8a.json": {
+        "hash": "b4f19a82a3c2b9f8d4f647becfd189e5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\963c534b-7741-4c61-9a18-fad3882b5fbd.json": {
+        "hash": "7203cdad166370b51afabc5a2853d8ee"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\96c2e541-68c0-4946-afd0-955ca973ce18.json": {
+        "hash": "259ec626d7f82216f08ab68713456244"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\971366c5-2209-4553-9bff-55f1d32b7f0a.json": {
+        "hash": "2ff2d1a38fc5326d3dd2ade5520f5acd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9869b17f-4829-437a-89a4-85ee62035a7d.json": {
+        "hash": "548421d22adc0dd96aba9f6e08c91e47"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9950bc9c-8e06-4b04-a9ff-6ee117496ba4.json": {
+        "hash": "db6e7c28d6e5cdc37818be4fe6b77889"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9ac25efd-849f-4adc-9420-7dc25a84e62c.json": {
+        "hash": "a2f3017d2729ad31929093a2e9686234"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9c682912-d313-4d96-a4b6-717c57ff3419.json": {
+        "hash": "80845e7e0e686ee1b1002ba7cb235c2a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9c683b69-713b-4084-a275-30353e62f81d.json": {
+        "hash": "3e4ed8663c6eebaad2f7cf544275d07f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9d22287e-f40b-4864-9250-eefe12bb1b42.json": {
+        "hash": "4e6ab37a573be6cfe8c21f3afd7e3d4e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9e5b4f05-038e-4e56-befc-ee35f822e515.json": {
+        "hash": "a2e841b1a635070f72074b775396e854"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9f1d9059-2e72-4fda-b8c8-aa552b08dd98.json": {
+        "hash": "8549155219514302cb7903af4e51a631"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9f35cf4c-d605-4579-83a6-f87b9f07e1d6.json": {
+        "hash": "5f0a365bf35f252ba52faf858b91115f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9f9a8ec8-6322-4370-985d-8ab4b5d0e97b.json": {
+        "hash": "a4128546cb1e799e929d340deda758e1"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\9ff7f244-4326-47c5-adec-a702cbb387c2.json": {
+        "hash": "31066be0b25b783da11e04049ca28422"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a18b1952-c968-410b-89fb-6170bcc839ef.json": {
+        "hash": "b80c050f98c911c86bcf0884233ea473"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a1aef60e-8cf8-4122-bf77-e6f94e477940.json": {
+        "hash": "5a4cecdffcfb094dbac332138cfe646a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a1ce2759-8606-4544-be90-34c61b4897c6.json": {
+        "hash": "9ab0890702ec4701e9acfce0bee5727c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a53ed049-d60e-4fb0-9cbf-b6138c35dbb4.json": {
+        "hash": "f74bdd37795ca41412aef368e288e816"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a5e7cd21-21aa-4c45-b421-d7554df360eb.json": {
+        "hash": "2cf3b657b07998b62129a288ccffa705"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a6f68d3d-59f9-4a07-a894-63fca2c50f74.json": {
+        "hash": "ef524177519bc41531e6384cbdbbb6df"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a9414ba3-3b03-4918-8ec6-829bf7bb5123.json": {
+        "hash": "26fe9ee4eb3c538bd9e2dc8902d6cc86"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\a94271eb-bf51-46b6-85f7-4b8c3dc8ed7c.json": {
+        "hash": "bbfa415246bfef24bf0f3d13b5f45a9c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\aa1698b3-6f76-4492-8d52-8a5ec4b000b7.json": {
+        "hash": "258a2c3cfd8cb1cebf8582ca3033e82f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\aa1c38bc-05de-4f4f-9fa6-ca140491f2f6.json": {
+        "hash": "5e85499c44d6a9a260982cbe54c26585"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\aaa81831-188a-47bf-9a0b-e6d25ee3f3a0.json": {
+        "hash": "81cd62dc72f03675eb93ed496bfe0189"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\abaeec98-529f-48ba-b716-6cb128fdb089.json": {
+        "hash": "54dfda1c6fd9ce808450c1ef57226230"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ad6bb318-baaf-4b83-b3c3-9043bc6e0573.json": {
+        "hash": "49ef3c26ca6c01b8278e248de801418d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\af733a69-ff53-499d-b97a-97c55d2c2347.json": {
+        "hash": "e9a4aa94d0d2ef362e0a0627f187273c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b0473731-d79b-4951-9cf4-6c2a34d2e5a0.json": {
+        "hash": "fe3b03a3719a4c0f02e9bcb8a2283d05"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b0cf0509-452d-45ee-91f3-ba1aa0e6ed7a.json": {
+        "hash": "8ac35bb77a079832504198f2de3cb99c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b2d557e1-1e85-4447-a2be-6d2cad3f57d6.json": {
+        "hash": "f1e2826f95097075c25157f055471f00"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b487f6f2-b260-4e3f-b354-d81736537ec3.json": {
+        "hash": "6838b5dab3307d41819f125ada7b5e74"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b569f4e5-91d9-41d1-a27f-b27e627bff27.json": {
+        "hash": "e99cbbaeef2a5a874e08a0e974eaff1c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b5cd0d30-955a-4479-aded-26c7240cd6ba.json": {
+        "hash": "feb448c603e38d23746a9ad5d65750a6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b65acd75-234b-4834-a37b-c490af809f19.json": {
+        "hash": "ee271515a407b4f4cc8d790654b72352"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b7175eb9-aaeb-4ae7-9ee4-fbb02487d93f.json": {
+        "hash": "514bb6a0a4528e63ab44e18e03bd85a2"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b8548473-5663-4fb8-95e5-3ed1485e653f.json": {
+        "hash": "4048e3930e521a97c36ecfc96961c7be"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\b89b8d2a-286e-4dc9-a7f4-c64727bf3b86.json": {
+        "hash": "c4ae0a64bfa59ffe29ae6b79c2ba1f13"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ba0d1595-fb11-43f2-a2ac-b8a8eafbdfff.json": {
+        "hash": "d86ca97ff1f52e3514d45445f6f1b8a9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ba79f7d5-40f8-4616-82fb-fe08ade28b56.json": {
+        "hash": "c938fe5d75e041b2386ad324137ddefe"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bb00251e-da77-43dd-ace6-f3d43367acc7.json": {
+        "hash": "766a6d02610774f523787dee063194ea"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bb2aa60e-0e59-442f-9f4a-dbbdd1f712fc.json": {
+        "hash": "5affe2acaec703d6109f24388b02cd54"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bb7e01b3-8117-44a1-acdf-279938bcbfed.json": {
+        "hash": "94db50691c4c8a82fc9c32b9c43a8626"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bc5d220a-034b-416c-aa31-304885fa3626.json": {
+        "hash": "7771c9fb1390b4ceb791e1fcede45700"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bcc1fc3f-3f16-483c-ba09-159b951c738f.json": {
+        "hash": "14654a593a8b5dca348cd5f38b98ccd9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\be2e52d5-4a13-4d8a-86c6-6e6ea3d395e6.json": {
+        "hash": "4202056a2538b7bef039a7b19e49ccaf"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bedc5ecd-fd19-4598-88a7-3d182ed2796a.json": {
+        "hash": "091b64f064ee96da0f578f6da97429bf"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bf0e8622-b745-4709-9052-08505e900dbd.json": {
+        "hash": "4d8808d2d1736e08a79ff4f9611fe3fb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bf9b616f-fdbe-43dd-bd7b-3bcee49c40c4.json": {
+        "hash": "ffaf244974581621351dcbf53baf36df"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\bfe140e2-776e-44c3-b64a-c476cd6bf04b.json": {
+        "hash": "1deed22bc7e083bdf5800d562b929751"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c1323b93-b73f-4a87-86ab-62b34826c088.json": {
+        "hash": "47f6d01ca562e34c7c5d9a827cd79e2f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c1fb0eb4-a39d-4189-aa06-8d4911d8946f.json": {
+        "hash": "3fb75c7b39d4cc26063c46f70e458529"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c3bcdb33-b7d1-403b-8dc8-ef10d4a1d259.json": {
+        "hash": "05654fda8047998f018b7bf7b7173890"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c3fbcb37-30fd-4f2e-81c3-c9db52b8810a.json": {
+        "hash": "b646adb8c535b661ae6bfbe63e9ac589"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c411722b-8e05-48cd-99b0-0e22390a808e.json": {
+        "hash": "904399f8c9b416d9fb869d61ea342b9a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c429ad3d-b067-4e58-a1ff-1b0b9c485c30.json": {
+        "hash": "0e37d14c8881a2b1d2df0080c033cc41"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c477d62a-708b-402d-8431-efd80d93d7ae.json": {
+        "hash": "38a796fcd8db92241168e57140600532"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c7c9d40c-e3d3-4b37-ada8-1923cc2260c4.json": {
+        "hash": "29c6ad766904d410cb0662668d827ef5"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c7f1b3c5-423c-4aa6-908b-d3703ce1a45e.json": {
+        "hash": "fd3520a16513fa49d422bac5106dfc4a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\c88d89e7-346d-47a5-bc93-54a3bf0fe7a7.json": {
+        "hash": "e7e040eccdd1fa0d00e3dd40dbbc850b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ca60dd79-186c-4078-910d-b6e8e6d6c7e6.json": {
+        "hash": "a7eeadb3b4b8cfd632479ff86b1c029c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\cb3cf4f3-203b-405f-8211-029cbcb78b80.json": {
+        "hash": "20095f21324edca92014681a3f72042b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\cbd246e0-3961-487c-9be5-24df446b481b.json": {
+        "hash": "c9030d4771e0c1cb0c3d19bcb20b16c4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\cc38d981-0411-4c35-b5ef-7f846a77c396.json": {
+        "hash": "2cef0c918fe07b7cc7c4f6f82b2b5e36"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\cc4cc17f-db48-4a61-9c5b-651b9f48b422.json": {
+        "hash": "4b8b1cf68c9d73c3f0413de0ba6f28c3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\cca3c5eb-86b3-48c9-84cf-93594f280772.json": {
+        "hash": "6f5d616558df614aa6266000dcc13395"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ced9954b-d4d1-4a18-9976-7d8bfe27a1bf.json": {
+        "hash": "2f7507393aed01cefc7e347cf40989d2"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\cf9e0928-e9f8-4f9c-93b5-b2ec2119d1c9.json": {
+        "hash": "180f6268e0a214c8fa6cab28f200dfc4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d0d298e2-5e0c-416e-8b5b-f6659f2c19ac.json": {
+        "hash": "bdbd236d71f50d00f518d9190e5992cb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d1104f40-1f14-41e2-b247-cefea764f82b.json": {
+        "hash": "e7072bafe5cb2ad3151f69b35be4fc0b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d222df52-5042-4b97-a04b-cf66a5f441cc.json": {
+        "hash": "b58e0ddd5e5f1c2a6a0730e1d7d874bb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d25f073b-654d-4d07-8820-8c579408e474.json": {
+        "hash": "ab49b96d9c009500e006d32ca133c538"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d2936c6e-b20e-46ee-8cf6-e54c2872b9e1.json": {
+        "hash": "f7b256e905fdae9671a5a377ccc6f1c0"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d2c94a0d-71b2-4ac3-84c7-78a597e5d511.json": {
+        "hash": "0b432ea25c17f06668a078ba14dacfe3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d2fed403-ddb1-4ca1-8be7-57d4406fece3.json": {
+        "hash": "30b46b20afbcef093868f213127f66f8"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d312ff04-865b-4726-aeee-551a818206bc.json": {
+        "hash": "64a8dd519d7ce1d342cf3dcfad6b7a1b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d4b37168-9b2d-482e-a871-bb4c94402a1a.json": {
+        "hash": "4fac74d6cf1048943b4497dbcecb635b"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d53ef23e-e55c-4a83-86eb-d0f94ceda725.json": {
+        "hash": "6c9d00abd1e0711beeacd29fb6c34209"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d58fce0a-1f02-4e5c-b1d5-0a441ca43540.json": {
+        "hash": "e65a14745617909b144c72bd036b78e3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d71c920b-8f6a-4d1c-a70d-257281e2adf3.json": {
+        "hash": "8db645ed3f1c9d58aae1f0a74c925d51"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d81067a8-efe7-4b3e-bf07-2a310b3d654e.json": {
+        "hash": "e41fa17ce49ad22600524f133d529fcd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d821c18a-463c-4d84-920c-3c6a4d4fba57.json": {
+        "hash": "893c74e77a00cfcbeac09c6fe27ad17d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d87cad60-8977-463c-826d-988f4f75e237.json": {
+        "hash": "90ca50cbcaab97be9854adc64aac7f5a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d8927d6f-ea4e-44f6-a79c-34c095b41cf3.json": {
+        "hash": "564c6e0fac07b83ae98701fe6e85228d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d8a71c21-3e23-454d-a792-5a9c3c58eee8.json": {
+        "hash": "4e9e16719cc3f2eaf63dff97b34b01ee"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d8fb3df4-51a0-49d7-b586-5c1365d1dcc9.json": {
+        "hash": "f11e42fb3be820b088d2166c5e74b934"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\d94cd64e-dc32-40c8-a1f1-984b85203171.json": {
+        "hash": "329e745e4fea44978eb9e71d1cf34f52"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\da1a3281-36f0-4ef1-b1cc-5eb25d48f302.json": {
+        "hash": "1e536c6d680b887487f4975a94dd4c58"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\da3529f2-38c5-4682-bc99-84506e0521b2.json": {
+        "hash": "72a1c9930fe4c05e59c930b243786197"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\da5d90f2-d688-49eb-ad06-62d6b332f3d9.json": {
+        "hash": "913610c0f8d33c2dbb70b570ad2cad0c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\dad26f01-4a89-4a0f-816c-b32816b6fb94.json": {
+        "hash": "a8055bd7843e3da3c0bbe46fa8ede781"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\db000a9c-4e48-480a-b923-d6b17408ee31.json": {
+        "hash": "a372ca6a3d5df68187c86185921051fe"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\db968be3-316b-419f-8b4c-3a98eb76a1e7.json": {
+        "hash": "7e0a37a812e0e8155e7b3e2d713a2ced"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\dd9656d2-ed4d-49b1-a2a9-50d0c003694f.json": {
+        "hash": "ae5ae63368e40b1978a57a6c10cf1afd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\de78d883-caa8-41ab-88b9-8fd2eeb70655.json": {
+        "hash": "2a3c5ab5b0143d2fd7b09c2ab10dc8cb"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\defa5036-3cc6-41f0-b829-d608eee4fab0.json": {
+        "hash": "8a15f7992ed80be1e6591c68ac7ff2b4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\dfe2285e-7c77-4015-9a30-97bfd9ebb223.json": {
+        "hash": "1672195c9423019507229e66f3f54206"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e0089354-38ac-4857-9b79-60e8506d6608.json": {
+        "hash": "cdae52187b09ad07573273e049554671"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e254139a-75aa-4c3c-8082-a8fab693203a.json": {
+        "hash": "275e9c694f8bfa4e479d8a0cfa33acb1"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e30bce5b-4db5-4fd4-b78a-6616c4a64255.json": {
+        "hash": "191188f98a0014041684789cf5b640ce"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e34ac7ef-527d-4eb1-aa30-d8142fb1ab85.json": {
+        "hash": "9c0b43108b8dabe643dbc56a779b007c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e3b3145c-d528-4977-89ff-38352f421b05.json": {
+        "hash": "8ee690e2093771b07406327f5626b539"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e46c476f-f871-4041-aa8c-3007e561462b.json": {
+        "hash": "28685909379e01b76e3ced060feac48a"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e7457911-bcce-4cae-81db-689de1ce424d.json": {
+        "hash": "e027e82422df19c686b85e8053452de6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\e92e9e40-7e5f-4804-a44a-247b1e0b0d7f.json": {
+        "hash": "4df7ddc2303a2b80ccf26b77853b43a3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ebefb893-9b8e-40bf-ae89-20fd4234d7dd.json": {
+        "hash": "339afb46817e2a20dadfca948973edf3"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ee43f49a-f1cf-4aba-a1c7-90af6a86c78f.json": {
+        "hash": "3c2d844a2c3a675c619c704c81b03188"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\ef02b848-8f26-4070-9474-7a2bd4841674.json": {
+        "hash": "dd0d9d29e21c7b9130751b20ffb1da2d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f192cb8f-ee53-4663-afe7-87444ea5f951.json": {
+        "hash": "7fed64807a5d2f387635fefaf20b7a9f"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f1d0d579-a11a-4cad-af14-e59fe4163323.json": {
+        "hash": "3f82b7a88391c1685db11ca1e5efe7b6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f33489b7-ec4a-4fc3-bc4c-64cd8e0df56c.json": {
+        "hash": "9c2055e6dd3ebf80535eedab78c892ad"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f426d0ad-a3e1-443d-aec3-2baefd67794a.json": {
+        "hash": "2fc7f75cd121b9d8003e6fa85d09b39e"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f4770f75-6079-462d-8455-5bceaae20457.json": {
+        "hash": "0cb260c2d46e016cf1d15c6e28987df6"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f4b5e0b9-82e7-4759-8a90-0862d2cc8234.json": {
+        "hash": "5966b6a157b7cf29a1605d0e00bf295c"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f50ed05e-e953-45d7-8ce7-376f8b7ea471.json": {
+        "hash": "290efeba0858377494cf35053f10005d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f560273a-52ba-4f6e-8b5e-995a8ebf129a.json": {
+        "hash": "c0ac69ee85b419771e73e46600efb128"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f6bf4774-c5de-4252-93b8-914618b00820.json": {
+        "hash": "d0f64033890b0c0790ccb60c99370e73"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f7030446-a057-4ccc-8448-c10453f2e38f.json": {
+        "hash": "344f25d038e2161d70e66e60ac2b83ba"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f7833e0b-1f62-4bbb-8e90-f03ff87a6ee9.json": {
+        "hash": "08be4a8b2fe3af16f1133dc3bf44e347"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f7e19adb-ac13-4009-a9e0-5b971a36549e.json": {
+        "hash": "879dc224160ea06986a1a7a48d864dfe"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f845088f-e96b-4384-9a4d-3d4e070191a7.json": {
+        "hash": "15ee8c6a38e25219609ba9e51d73a896"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\f9241639-62cc-4038-88ce-56cc5bc2e128.json": {
+        "hash": "e7316e0ffc0a8cd8fa816ab12e04f1e4"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\fbab5310-b7f0-49ed-9def-8fb3ee190374.json": {
+        "hash": "4b6bb32a625200626c13b64a18c15779"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\fcb7c454-73df-43d8-981a-d75f684482ac.json": {
+        "hash": "3a038a0ebf8d5174aeb3db709d058067"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\fd1b4092-cff5-4e74-9095-76b4df447bdd.json": {
+        "hash": "2fec899fec25b775e7eb5491a3a54c76"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\fdc73087-2a63-4f96-834f-e5ee0b885a29.json": {
+        "hash": "10f25555673adcaa7774b35d980ae770"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\fdea236e-46b8-4870-8b5a-165a2078b5f4.json": {
+        "hash": "db4bae0821a42f10aaf7317517db66a9"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\en\\fe475640-589b-4d28-ac77-cf0c1ddccbb3.json": {
+        "hash": "7762f67b480c48fd4bfbacf0e274299d"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\unknown\\20286ae7-6d34-4781-bd6e-1d623d4e0ac3.json": {
+        "hash": "9fdf0b60a4c1c7e15a78ad58bec486c1"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\unknown\\5b71c05c-e4b0-4c94-97d1-8a12fafcea99.json": {
+        "hash": "089e2a6dbb4123c079fd6a07834a8b65"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\unknown\\64663040-9df9-456e-93ac-f13718ee357a.json": {
+        "hash": "68c212f96dd3c86f12050a9e32a8f488"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\unknown\\7f97f9e5-359e-46ac-9c51-d6e7814a241a.json": {
+        "hash": "3b1b2c85f0690b3331c2dd44f5aa5cbd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\unknown\\90cba8d7-926e-4498-95c7-ffa1414d06eb.json": {
+        "hash": "a544f4df739e2b39ddb0fffcd34776dd"
+    },
+    "C:/Users/kashy/Documents/Code/Projects/ai_chatbot/dynamic_web_crawler/layer2/processed\\unknown\\c7190aad-302c-4a93-bfc3-5417d6acffa1.json": {
+        "hash": "d038ea42ed6e410501d19a6992933b7c"
+    }
+}

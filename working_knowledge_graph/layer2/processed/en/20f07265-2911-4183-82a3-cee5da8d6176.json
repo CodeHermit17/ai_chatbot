@@ -1,0 +1,584 @@
+{
+  "doc_id": "20f07265-2911-4183-82a3-cee5da8d6176",
+  "original_url": "https://www.mosdac.gov.in/node/940/node/940/3",
+  "file_type": "html",
+  "cleaned_text": null,
+  "geotags": [],
+  "extracted_tables": [
+    {
+      "headers": [
+        "Sr. No",
+        "Core Metadata Elements",
+        "Definition"
+      ],
+      "data": [
+        [
+          "1",
+          "Metadata language",
+          "English"
+        ],
+        [
+          "2",
+          "Metadata Contact",
+          "MOSDAC"
+        ],
+        [
+          "3",
+          "Metadata date",
+          "March 05, 2015"
+        ],
+        [
+          "4",
+          "Data Lineage or Quality",
+          "Water height estimation over inland water bodies using radar altimeters"
+        ],
+        [
+          "5",
+          "Title",
+          "Inland Water Bodies Monitoring using Satellite Altimetry over Indian Region"
+        ],
+        [
+          "6",
+          "Abstract",
+          "Inland water bodies? heightshave been estimated using SARAl-Altika and Jason-2 data over the two test sites, i.e. Ukai reservoir and Brahmaputra River (10 sites from upstream to downstream locations within the Indian region). The results were matched with the in-situ data collected from the GPS field trips and observed data collected from IWAI and CWC. In the first phase results of these two sites are presented herewith. Such 29 inland water bodies with (49 locations) are being done in the phase manner"
+        ],
+        [
+          "7",
+          "Dataset Contact",
+          "Shard Chander and D Gangulay, PMD/BPSG/EPSA, Praveen Gupta and Amit Dubey, EHD/BPSG/EPSA SAC (ISRO), Ahmedabad-380015, India. Ph: +91 79 2691 4138. Email:pkgupta@sac.isro.gov.in;schander@sac.isro.gov.in"
+        ],
+        [
+          "8",
+          "Update frequency",
+          "Near real time after the altimeter pass over the study area (35 days repetivity)"
+        ],
+        [
+          "9",
+          "Access Rights or Restriction",
+          "Open Access"
+        ],
+        [
+          "10",
+          "Spatial Resolution",
+          "NA"
+        ],
+        [
+          "11",
+          "Language",
+          "English"
+        ],
+        [
+          "12",
+          "Topic Category",
+          "Inland water bodies monitoring"
+        ],
+        [
+          "13",
+          "Keywords",
+          "Rivers/reservoirs, Satellite altimetry, waveform retracking, geophysical range corrections, water levels"
+        ],
+        [
+          "14",
+          "Date or period",
+          "Since launch of SARAL-Altika (February 2013)"
+        ],
+        [
+          "15",
+          "Responsible Party",
+          "Dr.Prakash Chauhan, Biological and Planetary Sciences Group, EPSA, Space Applications Centre (ISRO), Ahmedabad-380015, India"
+        ],
+        [
+          "16",
+          "Organization",
+          "Space Applications Centre (ISRO), Ahmedabad, India"
+        ],
+        [
+          "16a",
+          "Org. role",
+          "Retrieval of water level using Remote sensing techniques"
+        ],
+        [
+          "16b",
+          "Individual name",
+          "D. Ram Rajak, OSD/AOSG/EPSA, SAC (ISRO), Ahmedabad-380015, India. Ph: +91 79 2691 6051. Email:rajakdr@sac.isro.gov.in"
+        ],
+        [
+          "16c",
+          "Position",
+          "Scientist/Engineer, OSD/AOSG/EPSA, SAC (ISRO), Ahmedabad-380015, India. Ph: +91 79 2691 6051. Email:rajakdr@sac.isro.gov.in"
+        ],
+        [
+          "16d",
+          "Vertical Extent (minimumValue, maximumValue, unitOfMeasure, vertical datum)",
+          "Default value =NaN Unitofmeasurement= meter Datum: WGS84"
+        ],
+        [
+          "17",
+          "Geographic Extent",
+          "UL Coordinates: 40N, 65E. UR Coordinates: 40N, 100E. LL Coordinates: 5, 65E. LR Coordinates: 5, 100E."
+        ],
+        [
+          "18",
+          "Geographic name, geographic Identifier",
+          "Indian Region"
+        ],
+        [
+          "19",
+          "Bounding box",
+          "UL Coordinates: 40N, 65E. UR Coordinates: 40N, 105E. LL Coordinates: 5, 65E. LR Coordinates: 5, 105E."
+        ],
+        [
+          "20",
+          "Temporal Extent",
+          "Historical time series plot of water heights over inland water body since the availability of altimeter measurement"
+        ],
+        [
+          "21",
+          "Access Rights or Restrictions",
+          "Open Access"
+        ],
+        [
+          "22",
+          "Distribution Information",
+          "Online download in text, and PNG formats"
+        ],
+        [
+          "23",
+          "Processing Level",
+          "Level 3 (Data product derived from altimeter IGDR/GDR product)"
+        ],
+        [
+          "24",
+          "Reference System",
+          "Datum: WGS84"
+        ]
+      ]
+    }
+  ],
+  "extracted_links": [
+    {
+      "text": "Skip to main Content",
+      "href": "#main-content"
+    },
+    {
+      "text": "-A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "+A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "A",
+      "href": "javascript:drupalHighContrast.enableStyles()"
+    },
+    {
+      "text": "A",
+      "href": "javascript:drupalHighContrast.disableStyles()"
+    },
+    {
+      "text": "SignUp",
+      "href": "/internal/registration"
+    },
+    {
+      "text": "Login",
+      "href": "/internal/uops"
+    },
+    {
+      "text": "Logout",
+      "href": "/internal/logout"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Meteorological & Oceanographic Satellite Data Archival Centre",
+      "href": "/"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Missions",
+      "href": "#"
+    },
+    {
+      "text": "INSAT-3DR",
+      "href": "/insat-3dr"
+    },
+    {
+      "text": "INSAT-3D",
+      "href": "/insat-3d"
+    },
+    {
+      "text": "KALPANA-1",
+      "href": "/kalpana-1"
+    },
+    {
+      "text": "INSAT-3A",
+      "href": "/insat-3a"
+    },
+    {
+      "text": "MeghaTropiques",
+      "href": "/megha-tropiques"
+    },
+    {
+      "text": "SARAL-AltiKa",
+      "href": "/saral-altika"
+    },
+    {
+      "text": "OCEANSAT-2",
+      "href": "/oceansat-2"
+    },
+    {
+      "text": "OCEANSAT-3",
+      "href": "/oceansat-3"
+    },
+    {
+      "text": "INSAT-3DS",
+      "href": "/insat-3ds"
+    },
+    {
+      "text": "SCATSAT-1",
+      "href": "/scatsat-1"
+    },
+    {
+      "text": "Catalog",
+      "href": "#"
+    },
+    {
+      "text": "Satellite",
+      "href": "/internal/catalog-satellite"
+    },
+    {
+      "text": "Insitu (AWS)",
+      "href": "/internal/catalog-insitu"
+    },
+    {
+      "text": "RADAR",
+      "href": "/internal/catalog-radar"
+    },
+    {
+      "text": "Galleries",
+      "href": "#"
+    },
+    {
+      "text": "Satellite Products",
+      "href": "/internal/gallery"
+    },
+    {
+      "text": "Weather Forecast",
+      "href": "/internal/gallery/weather"
+    },
+    {
+      "text": "Ocean Forecast",
+      "href": "/internal/gallery/ocean"
+    },
+    {
+      "text": "RADAR (DWR)",
+      "href": "/internal/gallery/dwr"
+    },
+    {
+      "text": "Global Ocean Current",
+      "href": "/internal/gallery/current"
+    },
+    {
+      "text": "Data Access",
+      "href": "#"
+    },
+    {
+      "text": "Order Data",
+      "href": "/internal/uops"
+    },
+    {
+      "text": "Open Data",
+      "href": "#"
+    },
+    {
+      "text": "Atmosphere",
+      "href": "#"
+    },
+    {
+      "text": "Bayesian based MT-SAPHIR rainfall",
+      "href": "/bayesian-based-mt-saphir-rainfall"
+    },
+    {
+      "text": "GPS derived Integrated water vapour",
+      "href": "/gps-derived-integrated-water-vapour"
+    },
+    {
+      "text": "GSMap ISRO Rain",
+      "href": "/gsmap-isro-rain"
+    },
+    {
+      "text": "METEOSAT8 Cloud Properties",
+      "href": "/meteosat8-cloud-properties"
+    },
+    {
+      "text": "Land",
+      "href": "#"
+    },
+    {
+      "text": "3D Volumetric TERLS DWRproduct",
+      "href": "/3d-volumetric-terls-dwrproduct"
+    },
+    {
+      "text": "Inland Water Height",
+      "href": "/inland-water-height"
+    },
+    {
+      "text": "River Discharge",
+      "href": "/river-discharge"
+    },
+    {
+      "text": "Soil Moisture",
+      "href": "/soil-moisture-0"
+    },
+    {
+      "text": "Ocean",
+      "href": "#"
+    },
+    {
+      "text": "Global Ocean Surface Current",
+      "href": "/global-ocean-surface-current"
+    },
+    {
+      "text": "High Resolution Sea Surface Salinity",
+      "href": "/high-resolution-sea-surface-salinity"
+    },
+    {
+      "text": "Indian Mainland Coastal Product",
+      "href": "/indian-mainland-coastal-product"
+    },
+    {
+      "text": "Ocean Subsurface",
+      "href": "/ocean-subsurface"
+    },
+    {
+      "text": "Oceanic Eddies Detection",
+      "href": "/oceanic-eddies-detection"
+    },
+    {
+      "text": "Sea Ice Occurrence Probability",
+      "href": "/sea-ice-occurrence-probability"
+    },
+    {
+      "text": "Wave based Renewable Energy",
+      "href": "/wave-based-renewable-energy"
+    },
+    {
+      "text": "Cal-Val",
+      "href": "/internal/calval-data"
+    },
+    {
+      "text": "Forecast",
+      "href": "/internal/forecast-menu"
+    },
+    {
+      "text": "RSS Feeds",
+      "href": "/rss-feed"
+    },
+    {
+      "text": "Reports",
+      "href": "#"
+    },
+    {
+      "text": "Calibration",
+      "href": "#"
+    },
+    {
+      "text": "Insitu",
+      "href": "/insitu"
+    },
+    {
+      "text": "Relative",
+      "href": "/calibration-reports"
+    },
+    {
+      "text": "Validation",
+      "href": "/validation-reports"
+    },
+    {
+      "text": "Data Quality",
+      "href": "/data-quality"
+    },
+    {
+      "text": "Weather",
+      "href": "/weather-reports"
+    },
+    {
+      "text": "Atlases",
+      "href": "/atlases"
+    },
+    {
+      "text": "Tools",
+      "href": "/tools"
+    },
+    {
+      "text": "Sitemap",
+      "href": "/sitemap"
+    },
+    {
+      "text": "Help",
+      "href": "/help"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Data Access",
+      "href": "#"
+    },
+    {
+      "text": "Open Data",
+      "href": "#"
+    },
+    {
+      "text": "Land",
+      "href": "#"
+    },
+    {
+      "text": "Click Here",
+      "href": "/opendata/inland_water_height/"
+    },
+    {
+      "text": "pkgupta@sac.isro.gov.in",
+      "href": "mailto:pkgupta@sac.isro.gov.in"
+    },
+    {
+      "text": "schander@sac.isro.gov.in",
+      "href": "mailto:schander@sac.isro.gov.in"
+    },
+    {
+      "text": "rajakdr@sac.isro.gov.in",
+      "href": "mailto:rajakdr@sac.isro.gov.in"
+    },
+    {
+      "text": "rajakdr@sac.isro.gov.in",
+      "href": "mailto:rajakdr@sac.isro.gov.in"
+    },
+    {
+      "text": "Opendata",
+      "href": "/tags/opendata"
+    },
+    {
+      "text": "Land",
+      "href": "/tags/land"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/mosdac.sac.isro"
+    },
+    {
+      "text": "",
+      "href": "http://www.youtube.com/channel/UCDVkai9WIgY2ZgrlF_08Yeg"
+    },
+    {
+      "text": "",
+      "href": "https://www.mosdac.gov.in/rss.xml"
+    },
+    {
+      "text": "",
+      "href": "/docs/STQC.pdf"
+    },
+    {
+      "text": "Feedback",
+      "href": "/mosdac-feedback"
+    },
+    {
+      "text": "About Us",
+      "href": "/about-us"
+    },
+    {
+      "text": "Contact Us",
+      "href": "/contact-us"
+    },
+    {
+      "text": "Copyright Policy",
+      "href": "/copyright-policy"
+    },
+    {
+      "text": "Data Access Policy",
+      "href": "/data-access-policy"
+    },
+    {
+      "text": "Hyperlink Policy",
+      "href": "/hyperlink-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "/privacy-policy"
+    },
+    {
+      "text": "Website Policies",
+      "href": "/website-policies"
+    },
+    {
+      "text": "Terms & Conditions",
+      "href": "/terms-conditions"
+    },
+    {
+      "text": "FAQs",
+      "href": "/faq-page"
+    },
+    {
+      "text": "",
+      "href": "http://www.isro.gov.in"
+    },
+    {
+      "text": "",
+      "href": "http://www.sac.gov.in"
+    },
+    {
+      "text": "",
+      "href": "http://www.india.gov.in"
+    },
+    {
+      "text": "",
+      "href": "http://mygov.in/"
+    },
+    {
+      "text": "",
+      "href": "http://www.digitalindia.gov.in/"
+    },
+    {
+      "text": "",
+      "href": "http://data.gov.in"
+    }
+  ],
+  "metadata": {
+    "last_crawled": "2025-07-04T07:46:14.562832",
+    "md5_hash": "3fed3a02d6d2f499a1bf2dbf531dece0",
+    "etag": null,
+    "last_modified": "Fri, 04 Jul 2025 02:10:31 GMT",
+    "content_type": "text/html",
+    "http_status": 200,
+    "language": "en",
+    "file_name": "00210f7b215d733b4972e8340ef24665.html",
+    "file_size_bytes": 52547,
+    "file_last_modified": "2025-07-04T06:44:13.038893",
+    "file_creation_time": "2025-07-04T13:15:26.904435",
+    "relative_path": "www.mosdac.gov.in\\00210f7b215d733b4972e8340ef24665.html",
+    "html_meta_title": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC)",
+    "html_meta_description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data.",
+    "html_meta_abstract": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a Data Centre of Space Applications Centre (SAC) and has facility for satellite data reception, processing, analysis and dissemination. MOSDAC is operationally supplying earth observation data from Indian meteorology and oceanography satellites.",
+    "html_meta_keywords": "Meteorological, Oceanographic, Satellite, Data, Archival, Data Centre",
+    "html_meta_generator": "MOSDAC",
+    "html_meta_MobileOptimized": "width",
+    "html_meta_HandheldFriendly": "true",
+    "html_meta_viewport": "width=device-width, initial-scale=1.0",
+    "html_meta_lang": "en",
+    "processing_timestamp": "2025-07-04T10:13:03.082616+00:00"
+  },
+  "sentences": [],
+  "tokens": [],
+  "lemmas": [],
+  "entities": []
+}

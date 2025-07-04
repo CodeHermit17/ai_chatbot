@@ -1,0 +1,28 @@
+{
+  "doc_id": "90cba8d7-926e-4498-95c7-ffa1414d06eb",
+  "original_url": "https://www.mosdac.gov.in/3dimager.xml",
+  "file_type": "xml",
+  "cleaned_text": null,
+  "geotags": [],
+  "extracted_tables": [],
+  "extracted_links": [],
+  "metadata": {
+    "last_crawled": "2025-07-04T05:32:14.303217",
+    "md5_hash": "7f71f114b841fc7d76fa9dce46df6d0c",
+    "etag": null,
+    "last_modified": "Tue, 24 Dec 2024 08:23:45 GMT",
+    "content_type": "text/xml",
+    "http_status": 200,
+    "language": null,
+    "file_name": "3dimager.xml",
+    "file_size_bytes": 28441,
+    "file_last_modified": "2025-07-04T05:32:14.241945",
+    "file_creation_time": "2025-07-04T13:15:33.354254",
+    "relative_path": "www.mosdac.gov.in\\3dimager.xml",
+    "processing_timestamp": "2025-07-04T10:13:01.749506+00:00"
+  },
+  "sentences": [],
+  "tokens": [],
+  "lemmas": [],
+  "entities": []
+}

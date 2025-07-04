@@ -1,0 +1,28 @@
+{
+  "doc_id": "64663040-9df9-456e-93ac-f13718ee357a",
+  "original_url": "https://www.mosdac.gov.in/3drimager.xml",
+  "file_type": "xml",
+  "cleaned_text": null,
+  "geotags": [],
+  "extracted_tables": [],
+  "extracted_links": [],
+  "metadata": {
+    "last_crawled": "2025-07-04T05:32:14.213520",
+    "md5_hash": "5bf410bc6ed6987d3d840399dfc1bc77",
+    "etag": null,
+    "last_modified": "Tue, 24 Dec 2024 08:23:45 GMT",
+    "content_type": "text/xml",
+    "http_status": 200,
+    "language": null,
+    "file_name": "3drimager.xml",
+    "file_size_bytes": 28371,
+    "file_last_modified": "2025-07-04T05:32:14.203660",
+    "file_creation_time": "2025-07-04T13:15:33.385463",
+    "relative_path": "www.mosdac.gov.in\\3drimager.xml",
+    "processing_timestamp": "2025-07-04T10:13:01.706203+00:00"
+  },
+  "sentences": [],
+  "tokens": [],
+  "lemmas": [],
+  "entities": []
+}

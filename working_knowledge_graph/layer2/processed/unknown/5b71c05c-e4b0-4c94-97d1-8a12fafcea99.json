@@ -1,0 +1,28 @@
+{
+  "doc_id": "5b71c05c-e4b0-4c94-97d1-8a12fafcea99",
+  "original_url": "https://www.mosdac.gov.in/rss.xml",
+  "file_type": "xml",
+  "cleaned_text": null,
+  "geotags": [],
+  "extracted_tables": [],
+  "extracted_links": [],
+  "metadata": {
+    "last_crawled": "2025-07-04T04:06:39.245426",
+    "md5_hash": "6778f9ffd5b09a9703fbfff20aaf5b71",
+    "etag": null,
+    "last_modified": "Thu, 03 Jul 2025 21:30:10 GMT",
+    "content_type": "text/xml",
+    "http_status": 200,
+    "language": null,
+    "file_name": "rss.xml",
+    "file_size_bytes": 1529,
+    "file_last_modified": "2025-07-04T04:06:39.220245",
+    "file_creation_time": "2025-07-04T13:15:56.964361",
+    "relative_path": "www.mosdac.gov.in\\rss.xml",
+    "processing_timestamp": "2025-07-04T10:13:01.414494+00:00"
+  },
+  "sentences": [],
+  "tokens": [],
+  "lemmas": [],
+  "entities": []
+}

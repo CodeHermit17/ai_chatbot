@@ -1,0 +1,11 @@
+PyMuPDF
+python-docx
+openpyxl
+pandas
+beautifulsoup4
+spacy
+geopandas
+shapely
+Pillow
+pytesseract
+requests
